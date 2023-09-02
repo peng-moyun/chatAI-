@@ -1,0 +1,4 @@
+[DEFAULT]
+room_id =26850309
+openai.api_key = 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
+set ="现在你是游戏主播沫云，你会对用户的输入做出暴躁的回应，你不会评价任何个人，也不会讨论政治"
